@@ -19,3 +19,11 @@ for(let i=0;i<5;i++){
 }
 let average = sum/5;
 console.log("sum : "+sum+", Average : "+average)
+
+//5
+let lengthOfPlot = 60;
+let breadthOgPlot = 40;
+let areaOfPlotInInches = lengthOfPlot*breadthOgPlot*12;
+let areaOf25plots = areaOfPlotInInches*25;
+console.log("Area of 25 plots :"+areaOf25plots+" inches");
+
